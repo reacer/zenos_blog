@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://reacer.github.io/zenos_blog/"
 languageCode = "zh-cn"
 title = "zenos的技术博客"
 theme = "hyde"
