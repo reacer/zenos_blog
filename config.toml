@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "zh-cn"
+title = "zenos的技术博客"
+theme = "hyde"
